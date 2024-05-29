@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sharkass/static/css/main.6f239ce2.css",
+    "main.js": "/sharkass/static/js/main.df3ed0e5.js",
+    "static/js/453.0cd3661e.chunk.js": "/sharkass/static/js/453.0cd3661e.chunk.js",
+    "index.html": "/sharkass/index.html",
+    "main.6f239ce2.css.map": "/sharkass/static/css/main.6f239ce2.css.map",
+    "main.df3ed0e5.js.map": "/sharkass/static/js/main.df3ed0e5.js.map",
+    "453.0cd3661e.chunk.js.map": "/sharkass/static/js/453.0cd3661e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f239ce2.css",
+    "static/js/main.df3ed0e5.js"
+  ]
+}
