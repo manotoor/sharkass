@@ -16,7 +16,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img className="logo" src={`${process.env.PUBLIC_URL}/logo.png`} alt="telegram logo" />
+            <img className="logo" src={`${process.env.PUBLIC_URL}/tg-logo.png`} alt="telegram logo" />
           </a>
           <a
             className="App-link"
