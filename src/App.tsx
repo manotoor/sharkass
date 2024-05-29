@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img className="App-logo" src="/sharkass.jpg" alt="Logo" />
+        <img className="App-logo" src={`${process.env.PUBLIC_URL}/sharkass.jpg`} alt="Logo" />
         <p>
           CA: EpaV7tty7hgHJLn5vXrViUh3AxNXrKkvSbM8ABKrE9TK
         </p>
@@ -16,7 +16,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img className="logo" src="/logo.png" alt="telegram logo" />
+            <img className="logo" src={`${process.env.PUBLIC_URL}/logo.png`} alt="telegram logo" />
           </a>
           <a
             className="App-link"
@@ -24,7 +24,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img className="logo" src="/dex-logo.png" alt="dex logo" />
+            <img className="logo" src={`${process.env.PUBLIC_URL}/dex-logo.png`} alt="dex logo" />
           </a>
           <a
             className="App-link"
@@ -32,7 +32,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <img className="logo" src="/logo-black.png" alt="x logo" />
+            <img className="logo" src={`${process.env.PUBLIC_URL}/logo-black.png`} alt="x logo" />
           </a>
         </div>
 
